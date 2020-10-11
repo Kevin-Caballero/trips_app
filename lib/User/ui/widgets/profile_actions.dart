@@ -1,6 +1,5 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:trips_app/floating_action_button_green.dart';
 
 class ProfileActions extends StatefulWidget{
   @override

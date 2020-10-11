@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'button_inkwell.dart';
+import 'package:trips_app/widgets/button_inkwell.dart';
 
 class DescriptionPlace extends StatelessWidget{
 

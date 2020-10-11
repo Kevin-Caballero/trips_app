@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
-import 'package:trips_app/profile_trips.dart';
-import 'package:trips_app/search_trips.dart';
+import 'package:trips_app/Place/ui/screens/home_trips.dart';
+import 'package:trips_app/Place/ui/screens/search_trips.dart';
+import 'package:trips_app/User/ui/screens/profile_trips.dart';
 
-import 'home_trips.dart';
 
 class PlatziTripsCupertino extends StatelessWidget {
   @override
