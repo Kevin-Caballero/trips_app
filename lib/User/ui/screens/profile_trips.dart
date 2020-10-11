@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:trips_app/profile_actions.dart';
-import 'package:trips_app/profile_pics_list.dart';
-import 'gradient_back.dart';
-import 'profile_info.dart';
+import 'package:trips_app/User/ui/widgets/profile_actions.dart';
+import 'package:trips_app/User/ui/widgets/profile_info.dart';
+import 'package:trips_app/User/ui/widgets/profile_pics_list.dart';
+import 'package:trips_app/widgets/gradient_back.dart';
 
 class ProfileTrips extends StatelessWidget{
   @override
